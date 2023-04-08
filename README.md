@@ -1,1 +1,1 @@
-# E-ommerce-angular
+# E-Commerce-angular
